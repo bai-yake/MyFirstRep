@@ -49,7 +49,7 @@ public class BusinessBean {
 	}
 
 	public void myTest(){
-		System.out.println("我要测试GIT提交");
+		System.out.println("ceshi");
 	}
 	
 }
